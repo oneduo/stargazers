@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/oneduo/stargazers-client.git
+	url = git@github.com:oneduo/stargazers-client.git
 [submodule "server"]
 	path = server
-	url = https://github.com/oneduo/stargazers-server.git
+	url = git@github.com:oneduo/stargazers-server.git
